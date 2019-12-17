@@ -4,8 +4,6 @@ Real-time rendered, procedurally generated terrain using perlin noise and OpenGL
 
 ![infinity terrain](images/GIFs/gundam-flyover5.1-title.gif)
 
-Presentation: [https://docs.google.com/presentation/d/15pxD741pqk0vh3c4HK6LUiOWox2i87JruFVom9dYkxo/edit?folder=1e9LMTfKvjp9wJuoJfvLgAzG62OuDsLuO#slide=id.p](https://docs.google.com/presentation/d/15pxD741pqk0vh3c4HK6LUiOWox2i87JruFVom9dYkxo/edit?folder=1e9LMTfKvjp9wJuoJfvLgAzG62OuDsLuO#slide=id.p)
-
 ## Setup
 
 ```bash
